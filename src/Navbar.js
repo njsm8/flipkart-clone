@@ -1,6 +1,5 @@
 import "./Navbar.css";
 import SearchIcon from "@material-ui/icons/Search";
-import { Button } from "@material-ui/core";
 import { ShoppingCart } from "@material-ui/icons";
 
 function Navbar() {
